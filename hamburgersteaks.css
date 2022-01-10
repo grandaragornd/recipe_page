@@ -1,0 +1,17 @@
+/* main style */
+body{
+    background-color: black;
+}
+#main_recipe{
+    font-family: Cambria;
+    color: blanchedalmond;
+    text-align: center;
+    font-weight: 500;
+    margin: 80px;
+}
+#steakimage{
+    display: flex;
+    width: 400px;
+    height: auto;
+    margin: 100px;
+}
