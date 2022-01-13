@@ -1,4 +1,8 @@
 /* main style */
+*{
+    border: 1px solid orange;
+}
+
 body{
     background-color: black !important;
 }
@@ -13,7 +17,6 @@ body{
     display: flex;
     width: 400px;
     height: auto;
-    margin: 100px;
     justify-items: center;
     
 }
