@@ -1,6 +1,6 @@
 /* main style */
 body{
-    background-color: black;
+    background-color: black !important;
 }
 .main_recipe{
     font-family: Cambria;
@@ -14,10 +14,28 @@ body{
     width: 400px;
     height: auto;
     margin: 100px;
+    justify-items: center;
+    
 }
 #ingredients{
     font-family: Cambria;
     color: blanchedalmond;
     text-align: center;
     font-weight: 500;
+}
+.dropdown{
+    color: blanchedalmond;
+}
+
+#macaroni-cheese{
+    color: blanchedalmond;
+    justify-content: center;
+}
+.macaroniimg{
+    justify-content: center;
+    align-items: center;
+}
+.hamburger-steaks{
+    color: blanchedalmond;
+    justify-content: center;
 }
